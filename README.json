@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Family project"
+    },
+    {
+      "description": "Attributes",
+      "items": [],
+      "title": "Weapons"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bookmarklets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Browser Addons"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Burpsuite, Caido and ZAP Addons"
+    },
+    {
+      "description": "WHW's open-source project and made it with ❤️ if you want contribute this project, please see CONTRIBUTING.md and Pull-Request with cool your contents.\n",
+      "items": [],
+      "title": "Thanks to (Contributor)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:18:27.510Z",
+    "original_repository": "hahwul/WebHackersWeapons",
+    "original_repository_sha": "c1dd28659b29612b73efdde74e2c9fe0650a3749",
+    "enhanced_repository": "enhansome/enhansome-WebHackersWeapons",
+    "enhanced_repository_description": null,
+    "title": "Awesome WebHackersWeapons with stars"
+  }
+}
